@@ -1,15 +1,15 @@
 # company-values
 
-Mission:
+# Mission:
 * What is the core purpose of our company?
 * Why does our company exist?
 * What sets us apart in the market?
-Vision:
+# Vision:
 * Where do we see the company in 5, 10, or 20 years?
 * How do we want to be recognized on a global scale?
 * How to we react to changes in market, society, world?
 * What is our approach to staying relevant in a dynamic market?
-Values:
+# Values:
 * What are the fundamental beliefs that guide our decisions and actions?
 * What principles are non-negotiable for our company?
 * What kind of workplace culture do we want to foster?
@@ -20,7 +20,7 @@ Values:
 * How committed are we to customer satisfaction?
 * What steps will we take to ensure excellent customer service?
 
-Specific
+# Specific
 * Create a headline for a newspaper about the organization ten years from now. What would it say?
 * How to split the DIverzum Project?
 * How many meetings should we have a week, and about what?
