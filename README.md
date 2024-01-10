@@ -3,7 +3,6 @@
 # Mission:
 * What change we want to make in the world together?
 A: (great picture:) Advance & popularize accessibility to technology and for newcomers (e. g. ai models); donate to educational institutions; which fix problems which arise from steps of unethically working companies; (my specifics:) improve power plants in terms of location and efficiency (e.g. powering spacecraft); enhance technology which result in improved cancer diagnosis rates (from a higher level of perspective: encourage more and more people to live a healthier life by promoting healthy habits)
-Vision:
 
 # Vision:
 * Where do we see ourself in 5, 10, or 20 years?
