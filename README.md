@@ -15,4 +15,4 @@ A: Accountability and responsibility are priority in terms of decision making; G
 
 # Specific
 * How to split the Diverzum Project?
-A: -
+A: equally (didn't think about this that much for now)
